@@ -1,0 +1,2 @@
+## Pages
+- [Curo24 Lab - Login](/): Secure login to Curo24 Lab Management System
